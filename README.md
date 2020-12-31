@@ -8,5 +8,5 @@ Authors:
 - Jabłoński, Kamil
 - Kuncer, Bartosz
 
-Neural network scripts for model training:
+Neural network scripts for model training with datasets:
 http://www.kaggle.com/bartomiejgawrych/polish-banknotes-polskie-banknoty
